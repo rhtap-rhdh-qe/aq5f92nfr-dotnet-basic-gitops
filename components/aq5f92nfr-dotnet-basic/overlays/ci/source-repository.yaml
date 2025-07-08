@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: aq5f92nfr-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/aq5f92nfr-dotnet-basic
